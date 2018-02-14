@@ -11,6 +11,8 @@
 @import "modules/_row";
 @import "modules/_section-title";
 @import "modules/_site-footer";
+@import "modules/_site-header";
 @import "modules/_sprite";
 @import "modules/_testimonial";
 @import "modules/_wrapper";
+@import "modules/_primary-nav";
